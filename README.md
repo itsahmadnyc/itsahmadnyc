@@ -30,11 +30,9 @@ I am passionate developer with tons of experience with Node JS.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsahmadnyc&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsahmadnyc&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmadnyc&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-![Snake animation](https://github.com/itsahmadnyc/itsahmadnyc/blob/output/github-contribution-grid-snake.svg)
 
 
 
