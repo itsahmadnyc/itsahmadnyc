@@ -1,47 +1,112 @@
-<h2 align="left">Hi 👋! My name is Muhammad Ahmad and I'm a Node JS Developer</h2>
-
-I'm a passionate **Web Developer** 🕸️ with experience building dynamic and efficient web applications. I enjoy working on backend and frontend development, integrating complex APIs, and creating smooth, responsive user interfaces.
-
-![Profile Views](https://komarev.com/ghpvc/?username=itsahmadnyc&label=PROFILE+VIEWS&style=flat-square&color=blue)
-
-![followers](https://img.shields.io/github/followers/itsahmadnyc?style=social)
-![stars](https://img.shields.io/github/stars/itsahmadnyc?style=social)
-
-###
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
-</p>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Ahmad%2C+aka+its-ahmad-NYC.)
-# 💫 About Me:
-I am passionate developer with tons of experience with Node JS.
- - 👯 I am available for any help related to these stacks.
- - 💬 Ask me about anything related to these stacks.
-- 📫 How to reach me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsahmadnyc)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@its_ahmad_nyc) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Colors match the portfolio: ink #0D0D10, cream #FFF3DC, sun yellow #FFD36B / #F5B52E. -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsahmadnyc&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmadnyc&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE7A8,60:FFD36B,100:F5B52E&height=190&section=header&text=Ahmad&fontSize=72&fontColor=0D0D10&fontAlignY=42&desc=Node.js%20%C2%B7%20Backend%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=66&descColor=0D0D10" alt="Ahmad, Node.js backend and full-stack developer" />
 </p>
-
-
-
-
-
-
 
 <p align="center">
-  Made with :heart: &nbsp;by Ahmad
-  <br />
-  <br />
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F5B52E&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B;I+am+Ahmad%2C+aka+its-ahmad-NYC;I+build+reliable+backends+and+smooth+UIs" alt="Typing animation" />
 </p>
+
+<p align="center">
+  <a href="mailto:itsahmadnyc@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D10?style=for-the-badge&logo=gmail&logoColor=FFD36B" alt="Email" /></a>
+  <a href="https://linkedin.com/in/itsahmadnyc"><img src="https://img.shields.io/badge/LinkedIn-0D0D10?style=for-the-badge&logo=linkedin&logoColor=FFD36B" alt="LinkedIn" /></a>
+  <a href="https://x.com/its_ahmad_nyc"><img src="https://img.shields.io/badge/X-0D0D10?style=for-the-badge&logo=x&logoColor=FFD36B" alt="X" /></a>
+  <!-- Add your portfolio link here once it is live:
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-FFD36B?style=for-the-badge&logo=vercel&logoColor=0D0D10" alt="Portfolio" /></a> -->
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsahmadnyc&label=PROFILE+VIEWS&style=flat-square&color=F5B52E&labelColor=0D0D10" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/itsahmadnyc?style=flat-square&color=F5B52E&labelColor=0D0D10" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/itsahmadnyc?style=flat-square&color=F5B52E&labelColor=0D0D10" alt="Stars" />
+</p>
+
+---
+
+## 💫 About me
+
+I'm a web developer from Pakistan, working remotely, with a lot of Node.js behind me. I like building the whole path: the API, the database and the interface people actually touch.
+
+- 🔧 Backend services, REST and GraphQL APIs, and integrating third-party APIs
+- 🎨 Responsive, fast front ends in React and Next.js
+- 🟢 Open to new opportunities
+- 💬 Ask me anything about the stack below
+
+📫 **Reach me:** [itsahmadnyc@gmail.com](mailto:itsahmadnyc@gmail.com) · [LinkedIn](https://linkedin.com/in/itsahmadnyc) · [X](https://x.com/its_ahmad_nyc)
+
+---
+
+## 💻 Tech stack
+
+**Languages and runtime**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D10?style=for-the-badge&logo=javascript&logoColor=FFD36B)
+![Node.js](https://img.shields.io/badge/Node.js-0D0D10?style=for-the-badge&logo=nodedotjs&logoColor=FFD36B)
+![GraphQL](https://img.shields.io/badge/GraphQL-0D0D10?style=for-the-badge&logo=graphql&logoColor=FFD36B)
+![HTML5](https://img.shields.io/badge/HTML5-0D0D10?style=for-the-badge&logo=html5&logoColor=FFD36B)
+
+**Backend**
+
+![Express](https://img.shields.io/badge/Express-0D0D10?style=for-the-badge&logo=express&logoColor=FFD36B)
+![Nodemon](https://img.shields.io/badge/Nodemon-0D0D10?style=for-the-badge&logo=nodemon&logoColor=FFD36B)
+![Nginx](https://img.shields.io/badge/Nginx-0D0D10?style=for-the-badge&logo=nginx&logoColor=FFD36B)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D10?style=for-the-badge&logo=postgresql&logoColor=FFD36B)
+![MySQL](https://img.shields.io/badge/MySQL-0D0D10?style=for-the-badge&logo=mysql&logoColor=FFD36B)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D0D10?style=for-the-badge&logo=mongodb&logoColor=FFD36B)
+![SQLite](https://img.shields.io/badge/SQLite-0D0D10?style=for-the-badge&logo=sqlite&logoColor=FFD36B)
+![Redis](https://img.shields.io/badge/Redis-0D0D10?style=for-the-badge&logo=redis&logoColor=FFD36B)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0D0D10?style=for-the-badge&logo=react&logoColor=FFD36B)
+![Next.js](https://img.shields.io/badge/Next.js-0D0D10?style=for-the-badge&logo=nextdotjs&logoColor=FFD36B)
+![Vite](https://img.shields.io/badge/Vite-0D0D10?style=for-the-badge&logo=vite&logoColor=FFD36B)
+![Expo](https://img.shields.io/badge/Expo-0D0D10?style=for-the-badge&logo=expo&logoColor=FFD36B)
+![React Query](https://img.shields.io/badge/React_Query-0D0D10?style=for-the-badge&logo=reactquery&logoColor=FFD36B)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0D0D10?style=for-the-badge&logo=reacthookform&logoColor=FFD36B)
+![React Router](https://img.shields.io/badge/React_Router-0D0D10?style=for-the-badge&logo=reactrouter&logoColor=FFD36B)
+![Chart.js](https://img.shields.io/badge/Chart.js-0D0D10?style=for-the-badge&logo=chartdotjs&logoColor=FFD36B)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D0D10?style=for-the-badge&logo=tailwindcss&logoColor=FFD36B)
+![MUI](https://img.shields.io/badge/MUI-0D0D10?style=for-the-badge&logo=mui&logoColor=FFD36B)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0D0D10?style=for-the-badge&logo=antdesign&logoColor=FFD36B)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-0D0D10?style=for-the-badge&logo=chakraui&logoColor=FFD36B)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D0D10?style=for-the-badge&logo=bootstrap&logoColor=FFD36B)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-0D0D10?style=for-the-badge&logo=daisyui&logoColor=FFD36B)
+![Sass](https://img.shields.io/badge/Sass-0D0D10?style=for-the-badge&logo=sass&logoColor=FFD36B)
+![Styled Components](https://img.shields.io/badge/Styled_Components-0D0D10?style=for-the-badge&logo=styledcomponents&logoColor=FFD36B)
+
+**Cloud and tooling**
+
+![AWS](https://img.shields.io/badge/AWS-0D0D10?style=for-the-badge&logo=amazonwebservices&logoColor=FFD36B)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0D0D10?style=for-the-badge&logo=digitalocean&logoColor=FFD36B)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D0D10?style=for-the-badge&logo=googlecloud&logoColor=FFD36B)
+![Vercel](https://img.shields.io/badge/Vercel-0D0D10?style=for-the-badge&logo=vercel&logoColor=FFD36B)
+![Netlify](https://img.shields.io/badge/Netlify-0D0D10?style=for-the-badge&logo=netlify&logoColor=FFD36B)
+![npm](https://img.shields.io/badge/npm-0D0D10?style=for-the-badge&logo=npm&logoColor=FFD36B)
+![Yarn](https://img.shields.io/badge/Yarn-0D0D10?style=for-the-badge&logo=yarn&logoColor=FFD36B)
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsahmadnyc&show_icons=true&hide_border=false&bg_color=0D0D10&title_color=FFD36B&text_color=FFF3DC&icon_color=F5B52E&border_color=2B2B33&ring_color=FFD36B" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmadnyc&layout=compact&bg_color=0D0D10&title_color=FFD36B&text_color=FFF3DC&border_color=2B2B33" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=FFF3DC&authorColor=FFD36B&backgroundColor=0D0D10&borderColor=2B2B33" alt="Random dev quote" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5B52E,60:FFD36B,100:FFE7A8&height=120&section=footer&reversal=true" alt="" />
+</p>
+
+<p align="center">Made with ♥ by Ahmad</p>
