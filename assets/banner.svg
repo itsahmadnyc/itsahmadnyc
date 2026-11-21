@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="220" viewBox="0 0 854 220" role="img" aria-labelledby="t d">
+  <title id="t">Ahmad</title>
+  <desc id="d">Node.js, Backend and Full-Stack Developer</desc>
+  <style>
+    .name { font: 700 72px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #0D0D10; }
+    .role { font: 500 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #0D0D10; }
+  </style>
+  <defs>
+    <linearGradient id="sun" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFE7A8"/>
+      <stop offset="60%" stop-color="#FFD36B"/>
+      <stop offset="100%" stop-color="#F5B52E"/>
+    </linearGradient>
+  </defs>
+  <rect width="854" height="70" fill="url(#sun)"/>
+  <g transform="translate(0 30)">
+    <path fill="url(#sun)" d="M0 0L0 110Q213.5 150 427 120T854 145L854 0Z">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" begin="0s" calcMode="spline"
+        keyTimes="0;0.333;0.667;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        values="M0 0L0 110Q213.5 150 427 120T854 145L854 0Z;M0 0L0 135Q213.5 150 427 130T854 120L854 0Z;M0 0L0 155Q213.5 125 427 155T854 120L854 0Z;M0 0L0 110Q213.5 150 427 120T854 145L854 0Z"/>
+    </path>
+    <path fill="url(#sun)" opacity="0.4" d="M0 0L0 125Q213.5 170 427 140T854 150L854 0Z">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" begin="-10s" calcMode="spline"
+        keyTimes="0;0.333;0.667;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        values="M0 0L0 125Q213.5 170 427 140T854 150L854 0Z;M0 0L0 140Q213.5 110 427 110T854 130L854 0Z;M0 0L0 135Q213.5 115 427 140T854 155L854 0Z;M0 0L0 125Q213.5 170 427 140T854 150L854 0Z"/>
+    </path>
+  </g>
+  <text class="name" x="427" y="82" text-anchor="middle" dominant-baseline="middle">Ahmad</text>
+  <text class="role" x="427" y="132" text-anchor="middle" dominant-baseline="middle">Node.js · Backend &amp; Full-Stack Developer</text>
+</svg>
