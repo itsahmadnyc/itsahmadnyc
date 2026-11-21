@@ -1,7 +1,7 @@
 <!-- Colors match the portfolio: ink #0D0D10, cream #FFF3DC, sun yellow #FFD36B / #F5B52E. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE7A8,60:FFD36B,100:F5B52E&height=190&section=header&text=Ahmad&fontSize=72&fontColor=0D0D10&fontAlignY=42&desc=Node.js%20%C2%B7%20Backend%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=66&descColor=0D0D10" alt="Ahmad, Node.js backend and full-stack developer" />
+  <img src="assets/banner.svg" alt="Ahmad, Node.js backend and full-stack developer" />
 </p>
 
 <p align="center">
